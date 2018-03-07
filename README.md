@@ -1,6 +1,6 @@
 # political-nlp
-NLP Models for Political Debate Classification and Other Tasks
+### NLP Models for Political Debate Classification
 
-Simple bag-of-vectors Neural Network implementation
+1. Simple bag-of-vectors Neural Network implementation
 
-LSTM
+2. LSTM
